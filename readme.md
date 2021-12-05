@@ -14,13 +14,10 @@ In this project, we analyzed
 Subjects Covered:
 * Probability
 * Conditional Probability
-* Binominal Distribution
-* Sampling Distribution and Central Limit Theorem
+* Sampling Distribution 
 * Descriptive Statistics
 * Inferential Statistics
-* Confidence Levels and Intervals
 * Hypothesis Testing
-* T-tests and A/B test
 * Regression
 * Multiple Linear Regression
 * Logistic Regression
