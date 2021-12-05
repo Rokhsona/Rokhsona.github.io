@@ -9,6 +9,22 @@ I have experienced in analysing big data projects. The projects I have completed
 Project: Bike-Share large Data
 In this project, we analyzed 
 
+# Part 2 -Practical Statistics 
+
+Subjects Covered:
+* Probability
+* Conditional Probability
+* Binominal Distribution
+* Sampling Distribution and Central Limit Theorem
+* Descriptive Statistics
+* Inferential Statistics
+* Confidence Levels and Intervals
+* Hypothesis Testing
+* T-tests and A/B test
+* Regression
+* Multiple Linear Regression
+* Logistic Regression
+
 
 
 
