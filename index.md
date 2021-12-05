@@ -2,7 +2,7 @@
 
 I enjoy learning statistics and data analytic tools to solve the real-world problems. 
 
-### I have experienced in analysing big ata projects. The projects I have completed include:
+### I have experienced in analysing big data projects. The projects I have completed include:
 1. Bike-Share large Data
 2. 
 
