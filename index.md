@@ -1,4 +1,4 @@
-                                                              # Welcome to My Portfolio
+# Welcome to My Portfolio
 
 I enjoy learning statistics and data analytic tools to solve the real-world problems. 
 
