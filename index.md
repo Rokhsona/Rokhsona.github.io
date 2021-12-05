@@ -3,9 +3,10 @@
 I enjoy learning statistics and data analytic tools to solve the real-world problems. 
 
 ### I have experienced in analysing big ata projects. The projects I have completed include:
-1. Bike-Share large Data 
+1. Bike-Share large Data
+2. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
