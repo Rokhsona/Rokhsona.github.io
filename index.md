@@ -1,7 +1,9 @@
 ## Welcome to My Portfolio
 
 I enjoy learning statistics and data analytic tools to solve the real-world problems. 
-### Markdown
+
+### I have experienced in analysing big ata projects. The projects I have completed include:
+1. Bike-Share large Data 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
